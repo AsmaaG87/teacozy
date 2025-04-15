@@ -18,6 +18,8 @@ header{
    border-bottom: 1px solid seashell;  
    height: 69px;
    position: fixed;
+   z-index: 1;
+   tp: 0;
 }
 .logo{
     height: 50px;
@@ -45,8 +47,11 @@ nav a{
     background-size: cover;
     background-position: center;
     height: 700px;
-    width: 1200px;
-    margin: 0 auto;       
+    max-width: 90%;
+    margin: 0 auto;
+    position: relative;
+    top: 70px;
+    margin-bottom: 70px;
 }
 .mission-text{
     color: seashell;
