@@ -41,7 +41,7 @@ nav a{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-image: url("images/img-mission-background.jpg");
+    background-image: url("img-mission-background.jpg");
     background-size: cover;
     background-position: center;
     height: 700px;
@@ -109,7 +109,7 @@ h4{
 }
 /*LOCATIONS SECTION*/
 #locations{
-    background-image: url("images/img-locations-background.jpg");
+    background-image: url("img-locations-background.jpg");
     background-size: cover;
     background-position: center;
     height: 500px;
